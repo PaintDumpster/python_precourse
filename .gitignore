@@ -8,3 +8,6 @@
 # python bytecode
 __pycache__/
 *.pyc
+
+# data
+data/
